@@ -2,8 +2,7 @@
 ## also known as 30k, 007snoop, and Saint Celestine. 
 I'm a software development student at Keyin College in Newfoundland and Labrador. I'm passionate about coding, playing guitar, and video games. 
 
-I actively work on SDCCL which are active under my steam page.
-(will be updated later)
+I actively work on SDCCL which are active under my [Github repo](https://github.com/007snoop/SDCCL)
 
 ## Passions
 
