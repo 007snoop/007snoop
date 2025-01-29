@@ -12,15 +12,16 @@ I actively work on SDCCL which are active under my [Github repo](https://github.
 
 ##  Skills
 
-- **Languages:** Python, HTML, JavaScript, React, Vue, NodeJS
-- **Tools & Technologies:** GitHub, Visual Studio Code, Trello, Scrum, SQL, SteamOS
-- **Other Skills:** System administration, remote server management, software development, CLI
+- **Languages:** Java, Python, HTML, JavaScript, React, Vue, Node, SQL, CSS, Bash, Git
+- **Tools & Technologies:** GitHub, Visual Studio Code, Trello, Scrum, postgreSQL, SteamOS, IntelliJ, Tailwind
+- **Other Skills:** System administration, remote server management, software development, CLI, AWS
 
 ##  Currently Learning
 
-- Advanced Python concepts, Advanced JS, JSX, and node production.
+- Advanced Java concepts, Advanced JS, JSX, and node production.
 - Building databases and working with ERDs
 - Building and working inside frameworks
+- MPA using react
 - ProtonGE cross support
 
 ##  Fun Facts
@@ -28,5 +29,5 @@ I actively work on SDCCL which are active under my [Github repo](https://github.
 - I play the guitar in my free time.
 - I'm a big fan of the Final Fantasy series.
 - I enjoy learning about historical topics, particularly the daily life and achievements of lesser-known individuals from the Dark Ages and Middle Ages.
-- I have a love for text adventure games and I'm writing my own in Python.
+- I have a love for text adventure games and I'm currently refactoring my pyhton script game into a java OOP game.
 
